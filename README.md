@@ -1,5 +1,5 @@
 # WPSOfficeConf
-WPS Office Application Configuration for OEM packages
+WPS Office Application Configuration for OEM packages<br>
 WPS Office 应用程序配置（适用于 OEM 安装包）
 
 *"WPS", the WPS logo, "WPS+" and "WPS 365" are trademarks or registered trademarks of Kingsoft Corporation. Copyright (C) Kingsoft Corporation. All Rights Reserved.*
